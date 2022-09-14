@@ -1,0 +1,15 @@
+C:\Users\Mohan g p\C#\ds proj\bin\Debug\net6.0\ds proj.exe
+C:\Users\Mohan g p\C#\ds proj\bin\Debug\net6.0\ds proj.deps.json
+C:\Users\Mohan g p\C#\ds proj\bin\Debug\net6.0\ds proj.runtimeconfig.json
+C:\Users\Mohan g p\C#\ds proj\bin\Debug\net6.0\ds proj.dll
+C:\Users\Mohan g p\C#\ds proj\bin\Debug\net6.0\ds proj.pdb
+C:\Users\Mohan g p\C#\ds proj\obj\Debug\net6.0\ds proj.csproj.AssemblyReference.cache
+C:\Users\Mohan g p\C#\ds proj\obj\Debug\net6.0\ds proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan g p\C#\ds proj\obj\Debug\net6.0\ds proj.AssemblyInfoInputs.cache
+C:\Users\Mohan g p\C#\ds proj\obj\Debug\net6.0\ds proj.AssemblyInfo.cs
+C:\Users\Mohan g p\C#\ds proj\obj\Debug\net6.0\ds proj.csproj.CoreCompileInputs.cache
+C:\Users\Mohan g p\C#\ds proj\obj\Debug\net6.0\ds proj.dll
+C:\Users\Mohan g p\C#\ds proj\obj\Debug\net6.0\refint\ds proj.dll
+C:\Users\Mohan g p\C#\ds proj\obj\Debug\net6.0\ds proj.pdb
+C:\Users\Mohan g p\C#\ds proj\obj\Debug\net6.0\ds proj.genruntimeconfig.cache
+C:\Users\Mohan g p\C#\ds proj\obj\Debug\net6.0\ref\ds proj.dll
